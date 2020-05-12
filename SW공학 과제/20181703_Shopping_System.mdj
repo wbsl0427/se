@@ -7881,7 +7881,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": 16,
+											"left": -16,
 											"height": 13
 										},
 										{
@@ -7891,8 +7891,8 @@
 												"$ref": "AAAAAAFyBpPF3CaEMHQ="
 											},
 											"font": "Arial;13;1",
-											"left": 233,
-											"top": 111,
+											"left": 225,
+											"top": 103,
 											"width": 555,
 											"height": 13,
 											"underline": true,
@@ -7906,7 +7906,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": 16,
+											"left": -16,
 											"width": 80.9072265625,
 											"height": 13,
 											"text": "(from Model3)"
@@ -7919,14 +7919,14 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": 16,
+											"left": -16,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 228,
-									"top": 104,
+									"left": 220,
+									"top": 96,
 									"width": 565,
 									"height": 25,
 									"stereotypeLabel": {
@@ -7945,8 +7945,8 @@
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 208,
-							"top": 104,
+							"left": 200,
+							"top": 96,
 							"width": 585,
 							"height": 576,
 							"nameCompartment": {
@@ -8819,7 +8819,7 @@
 											"font": "Arial;13;1",
 											"left": 541,
 											"top": 415,
-											"width": 79,
+											"width": 95,
 											"height": 13,
 											"underline": true,
 											"text": "service"
@@ -8855,7 +8855,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 408,
-									"width": 89,
+									"width": 105,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyBpaTdyeJIdk="
@@ -8892,7 +8892,7 @@
 											"font": "Arial;13;0",
 											"left": 541,
 											"top": 438,
-											"width": 79,
+											"width": 95,
 											"height": 13,
 											"text": "+결제 서비스",
 											"horizontalAlignment": 0
@@ -8901,7 +8901,7 @@
 									"font": "Arial;13;0",
 									"left": 536,
 									"top": 433,
-									"width": 89,
+									"width": 105,
 									"height": 23
 								}
 							],
@@ -8909,8 +8909,8 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 408,
-							"width": 89,
-							"height": 57,
+							"width": 105,
+							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyBpaTdyeIHYs="
 							},
@@ -8946,7 +8946,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -208,
+											"left": -192,
 											"height": 13
 										},
 										{
@@ -8956,9 +8956,9 @@
 												"$ref": "AAAAAAFyBpbonCetyYw="
 											},
 											"font": "Arial;13;1",
-											"left": 669,
+											"left": 677,
 											"top": 215,
-											"width": 94,
+											"width": 71,
 											"height": 13,
 											"underline": true,
 											"text": "entity"
@@ -8971,7 +8971,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -208,
+											"left": -192,
 											"width": 80.9072265625,
 											"height": 13,
 											"text": "(from Model3)"
@@ -8984,15 +8984,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -208,
+											"left": -192,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 664,
+									"left": 672,
 									"top": 208,
-									"width": 104,
+									"width": 81,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyBpbonCeuClk="
@@ -9027,27 +9027,27 @@
 												"$ref": "AAAAAAFyBpcDJCfJ0/k="
 											},
 											"font": "Arial;13;0",
-											"left": 669,
+											"left": 677,
 											"top": 238,
-											"width": 94,
+											"width": 71,
 											"height": 13,
 											"text": "+상품",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 664,
+									"left": 672,
 									"top": 233,
-									"width": 104,
+									"width": 81,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 664,
+							"left": 672,
 							"top": 208,
-							"width": 104,
-							"height": 64,
+							"width": 81,
+							"height": 57,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyBpbonCetyYw="
 							},
@@ -9374,9 +9374,9 @@
 												"$ref": "AAAAAAFyBpe6bSgdtuQ="
 											},
 											"font": "Arial;13;1",
-											"left": 677,
+											"left": 653,
 											"top": 503,
-											"width": 86,
+											"width": 110,
 											"height": 13,
 											"underline": true,
 											"text": "entity"
@@ -9410,9 +9410,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 672,
+									"left": 648,
 									"top": 496,
-									"width": 96,
+									"width": 120,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyBpe6bSgetPQ="
@@ -9447,26 +9447,26 @@
 												"$ref": "AAAAAAFyBpfWLCg4YhM="
 											},
 											"font": "Arial;13;0",
-											"left": 677,
+											"left": 653,
 											"top": 526,
-											"width": 86,
+											"width": 110,
 											"height": 13,
 											"text": "+공급업자",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 672,
+									"left": 648,
 									"top": 521,
-									"width": 96,
+									"width": 120,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 672,
+							"left": 648,
 							"top": 496,
-							"width": 96,
+							"width": 120,
 							"height": 64,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyBpe6bSgdtuQ="
@@ -9643,7 +9643,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 336,
+											"left": 368,
 											"top": 160,
 											"height": 13
 										},
@@ -9654,9 +9654,9 @@
 												"$ref": "AAAAAAFyBpgwpyhnDVg="
 											},
 											"font": "Arial;13;1",
-											"left": 677,
+											"left": 653,
 											"top": 591,
-											"width": 78,
+											"width": 111,
 											"height": 13,
 											"underline": true,
 											"text": "entity"
@@ -9669,7 +9669,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 336,
+											"left": 368,
 											"top": 160,
 											"width": 80.9072265625,
 											"height": 13,
@@ -9683,16 +9683,16 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 336,
+											"left": 368,
 											"top": 160,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 672,
+									"left": 648,
 									"top": 584,
-									"width": 88,
+									"width": 121,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyBpgwpyho8vs="
@@ -9727,27 +9727,27 @@
 												"$ref": "AAAAAAFyBphfjyiC/xQ="
 											},
 											"font": "Arial;13;0",
-											"left": 677,
+											"left": 653,
 											"top": 614,
-											"width": 78,
+											"width": 111,
 											"height": 13,
-											"text": "+배송내역",
+											"text": "+배송정보 및 현황",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 672,
+									"left": 648,
 									"top": 609,
-									"width": 88,
+									"width": 121,
 									"height": 23
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 672,
+							"left": 648,
 							"top": 584,
-							"width": 88,
-							"height": 64,
+							"width": 121,
+							"height": 65,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyBpgwpyhnDVg="
 							},
@@ -10003,7 +10003,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFyBpgwpihkw1g="
 							},
-							"name": "배송내역"
+							"name": "배송정보 및 현황"
 						}
 					]
 				}
